@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactadmin/build/static/css/main.4b1afad1.chunk.css",
+    "main.js": "/reactadmin/build/static/js/main.e56a45b4.chunk.js",
+    "main.js.map": "/reactadmin/build/static/js/main.e56a45b4.chunk.js.map",
+    "runtime-main.js": "/reactadmin/build/static/js/runtime-main.826695b4.js",
+    "runtime-main.js.map": "/reactadmin/build/static/js/runtime-main.826695b4.js.map",
+    "static/css/2.fc15b1fd.chunk.css": "/reactadmin/build/static/css/2.fc15b1fd.chunk.css",
+    "static/js/2.e78221b9.chunk.js": "/reactadmin/build/static/js/2.e78221b9.chunk.js",
+    "static/js/2.e78221b9.chunk.js.map": "/reactadmin/build/static/js/2.e78221b9.chunk.js.map",
+    "index.html": "/reactadmin/build/index.html",
+    "precache-manifest.ec9dcfa1688cd6a6e73e16bc5ada83ff.js": "/reactadmin/build/precache-manifest.ec9dcfa1688cd6a6e73e16bc5ada83ff.js",
+    "service-worker.js": "/reactadmin/build/service-worker.js",
+    "static/css/2.fc15b1fd.chunk.css.map": "/reactadmin/build/static/css/2.fc15b1fd.chunk.css.map",
+    "static/css/main.4b1afad1.chunk.css.map": "/reactadmin/build/static/css/main.4b1afad1.chunk.css.map",
+    "static/media/font-awesome.min.css": "/reactadmin/build/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/logo.svg": "/reactadmin/build/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.826695b4.js",
+    "static/css/2.fc15b1fd.chunk.css",
+    "static/js/2.e78221b9.chunk.js",
+    "static/css/main.4b1afad1.chunk.css",
+    "static/js/main.e56a45b4.chunk.js"
+  ]
+}
