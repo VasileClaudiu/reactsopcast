@@ -5,6 +5,6 @@
 </head>
 <body>
 	<h1>React App Material Sopcast</h1>
-	<a href="https://vasileclaudiu.github.io/reactspcast/"><strong>DEMO</strong></a>
+	<a href="https://vasileclaudiu.github.io/reactsopcast/"><strong>DEMO</strong></a>
 </body>
 </html>
