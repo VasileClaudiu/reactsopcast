@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/reactadmin/buildn/static/css/main.b7cb7ff2.chunk.css",
-    "main.js": "/reactadmin/buildn/static/js/main.c9cb26d8.chunk.js",
-    "main.js.map": "/reactadmin/buildn/static/js/main.c9cb26d8.chunk.js.map",
-    "runtime-main.js": "/reactadmin/buildn/static/js/runtime-main.798bcb5d.js",
-    "runtime-main.js.map": "/reactadmin/buildn/static/js/runtime-main.798bcb5d.js.map",
-    "static/css/2.5c256278.chunk.css": "/reactadmin/buildn/static/css/2.5c256278.chunk.css",
-    "static/js/2.66423184.chunk.js": "/reactadmin/buildn/static/js/2.66423184.chunk.js",
-    "static/js/2.66423184.chunk.js.map": "/reactadmin/buildn/static/js/2.66423184.chunk.js.map",
-    "index.html": "/reactadmin/buildn/index.html",
-    "precache-manifest.35478bf9e8a4facd0e43fdd6b83ffa6f.js": "/reactadmin/buildn/precache-manifest.35478bf9e8a4facd0e43fdd6b83ffa6f.js",
-    "service-worker.js": "/reactadmin/buildn/service-worker.js",
-    "static/css/2.5c256278.chunk.css.map": "/reactadmin/buildn/static/css/2.5c256278.chunk.css.map",
-    "static/css/main.b7cb7ff2.chunk.css.map": "/reactadmin/buildn/static/css/main.b7cb7ff2.chunk.css.map",
-    "static/js/2.66423184.chunk.js.LICENSE.txt": "/reactadmin/buildn/static/js/2.66423184.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/reactadmin/buildn/static/media/fontawesome-webfont.fee66e71.woff",
-    "static/media/logo.svg": "/reactadmin/buildn/static/media/logo.25bf045c.svg"
+    "main.css": "/reactsopcast/static/css/main.b7cb7ff2.chunk.css",
+    "main.js": "/reactsopcast/static/js/main.b1fa6edc.chunk.js",
+    "main.js.map": "/reactsopcast/static/js/main.b1fa6edc.chunk.js.map",
+    "runtime-main.js": "/reactsopcast/static/js/runtime-main.6a0abcc3.js",
+    "runtime-main.js.map": "/reactsopcast/static/js/runtime-main.6a0abcc3.js.map",
+    "static/css/2.f9c5ac9b.chunk.css": "/reactsopcast/static/css/2.f9c5ac9b.chunk.css",
+    "static/js/2.97bef03a.chunk.js": "/reactsopcast/static/js/2.97bef03a.chunk.js",
+    "static/js/2.97bef03a.chunk.js.map": "/reactsopcast/static/js/2.97bef03a.chunk.js.map",
+    "index.html": "/reactsopcast/index.html",
+    "precache-manifest.18aeef61153f9e7f01dfb817d5862ccd.js": "/reactsopcast/precache-manifest.18aeef61153f9e7f01dfb817d5862ccd.js",
+    "service-worker.js": "/reactsopcast/service-worker.js",
+    "static/css/2.f9c5ac9b.chunk.css.map": "/reactsopcast/static/css/2.f9c5ac9b.chunk.css.map",
+    "static/css/main.b7cb7ff2.chunk.css.map": "/reactsopcast/static/css/main.b7cb7ff2.chunk.css.map",
+    "static/js/2.97bef03a.chunk.js.LICENSE.txt": "/reactsopcast/static/js/2.97bef03a.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/reactsopcast/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/logo.svg": "/reactsopcast/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.798bcb5d.js",
-    "static/css/2.5c256278.chunk.css",
-    "static/js/2.66423184.chunk.js",
+    "static/js/runtime-main.6a0abcc3.js",
+    "static/css/2.f9c5ac9b.chunk.css",
+    "static/js/2.97bef03a.chunk.js",
     "static/css/main.b7cb7ff2.chunk.css",
-    "static/js/main.c9cb26d8.chunk.js"
+    "static/js/main.b1fa6edc.chunk.js"
   ]
 }
