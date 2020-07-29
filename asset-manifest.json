@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reactsopcast/static/css/main.b7cb7ff2.chunk.css",
+    "main.css": "/reactsopcast/static/css/main.d3defb17.chunk.css",
     "main.js": "/reactsopcast/static/js/main.1a1ed9d6.chunk.js",
     "main.js.map": "/reactsopcast/static/js/main.1a1ed9d6.chunk.js.map",
     "runtime-main.js": "/reactsopcast/static/js/runtime-main.6a0abcc3.js",
@@ -9,10 +9,10 @@
     "static/js/2.adaeb88c.chunk.js": "/reactsopcast/static/js/2.adaeb88c.chunk.js",
     "static/js/2.adaeb88c.chunk.js.map": "/reactsopcast/static/js/2.adaeb88c.chunk.js.map",
     "index.html": "/reactsopcast/index.html",
-    "precache-manifest.ce1ee2475126ec3d2d5ec1880f8f4e9f.js": "/reactsopcast/precache-manifest.ce1ee2475126ec3d2d5ec1880f8f4e9f.js",
+    "precache-manifest.18eada7fd4abcbe782f8fdc883d8257f.js": "/reactsopcast/precache-manifest.18eada7fd4abcbe782f8fdc883d8257f.js",
     "service-worker.js": "/reactsopcast/service-worker.js",
     "static/css/2.da4d0bf3.chunk.css.map": "/reactsopcast/static/css/2.da4d0bf3.chunk.css.map",
-    "static/css/main.b7cb7ff2.chunk.css.map": "/reactsopcast/static/css/main.b7cb7ff2.chunk.css.map",
+    "static/css/main.d3defb17.chunk.css.map": "/reactsopcast/static/css/main.d3defb17.chunk.css.map",
     "static/js/2.adaeb88c.chunk.js.LICENSE.txt": "/reactsopcast/static/js/2.adaeb88c.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/reactsopcast/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/logo.svg": "/reactsopcast/static/media/logo.25bf045c.svg"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.6a0abcc3.js",
     "static/css/2.da4d0bf3.chunk.css",
     "static/js/2.adaeb88c.chunk.js",
-    "static/css/main.b7cb7ff2.chunk.css",
+    "static/css/main.d3defb17.chunk.css",
     "static/js/main.1a1ed9d6.chunk.js"
   ]
 }
