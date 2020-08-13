@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:00:40.000 --> 00:00:47.000
 sincronizare gioni666

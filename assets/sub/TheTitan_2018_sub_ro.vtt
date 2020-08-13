@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:02:09.974 --> 00:02:12.390
 <i>Efectele nucleare din Pacific alimenteaza</i>

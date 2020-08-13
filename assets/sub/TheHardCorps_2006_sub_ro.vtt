@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:00:22.761 --> 00:01:36.142
 Traducerea: Subs.ro Team

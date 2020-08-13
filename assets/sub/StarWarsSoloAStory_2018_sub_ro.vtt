@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:00:10.554 --> 00:00:15.596
 Cu mult timp an urma.

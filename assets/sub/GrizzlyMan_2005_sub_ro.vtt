@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:00:16.500 --> 00:00:22.500
 Subtitrarea: peter90/paulikrozik/ marius1889

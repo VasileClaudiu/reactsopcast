@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:00:51.652 --> 00:00:57.652
 Traducerea ai adaptarea: Snake_Eyes

@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:01:41.345 --> 00:01:42.574
 Ia-o uaor Peter.

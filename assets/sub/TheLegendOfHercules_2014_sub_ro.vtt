@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:00:39.980 --> 00:00:44.901
 <font color=#FFFF00>LEGENDA LUI HERCULE</font>

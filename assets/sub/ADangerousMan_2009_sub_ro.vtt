@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:00:53.596 --> 00:00:55.557
 - Buna iubitule. eu sunt.

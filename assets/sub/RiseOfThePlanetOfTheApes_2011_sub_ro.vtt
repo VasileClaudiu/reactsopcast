@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:01:01.989 --> 00:01:06.327
 PLANETA MAIMUaELOR: (R)EVOLUaIA

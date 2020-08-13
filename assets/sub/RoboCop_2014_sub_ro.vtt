@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:00:51.600 --> 00:00:56.500
 an direct an patru. trei. doi. unu...

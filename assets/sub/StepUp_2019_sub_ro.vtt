@@ -1,5 +1,11 @@
 ﻿WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00: 00: 31.005 -> 00: 00: 36.029
 <font color = "# 00ffff"> Subtitrari de sub.Trader

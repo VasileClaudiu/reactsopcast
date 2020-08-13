@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:00:07.132 --> 00:00:11.094
 RASA ESTE COPILUL RASISMULUI.

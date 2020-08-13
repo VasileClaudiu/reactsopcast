@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:03:08.063 --> 00:03:11.233
 <i>Cine sunt eu?

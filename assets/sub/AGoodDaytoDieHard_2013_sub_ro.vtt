@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:00:53.365 --> 00:00:57.561
 <i>Autoritaaile ruseati se pregatesc azi

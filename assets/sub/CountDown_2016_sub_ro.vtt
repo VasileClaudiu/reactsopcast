@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:01:30.080 --> 00:01:32.526
 Trebuie sa termini totul

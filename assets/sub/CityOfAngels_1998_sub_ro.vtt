@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:00:15.058 --> 00:00:20.058
 Subtitle by SunnyBoy

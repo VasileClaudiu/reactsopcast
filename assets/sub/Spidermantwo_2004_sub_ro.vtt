@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:03:01.948 --> 00:03:03.905
 <i>Se uita la mine an fiecare zi.</i>

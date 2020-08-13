@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:03:09.484 --> 00:03:12.683
 Transmitem an direct de langa casa

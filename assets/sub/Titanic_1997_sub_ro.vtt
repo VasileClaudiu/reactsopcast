@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:01:00.782 --> 00:01:06.782
 <font color="#ff0000">XtremeZone are placerea de a va prezenta

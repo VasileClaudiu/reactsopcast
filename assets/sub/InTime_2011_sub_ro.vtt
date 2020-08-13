@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:01:02.621 --> 00:01:04.593
 <i>Nu am timp.</i>

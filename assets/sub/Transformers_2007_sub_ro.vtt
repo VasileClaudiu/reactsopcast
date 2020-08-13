@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:00:52.686 --> 00:00:57.399
 <i>anainte de anceputul timpului.

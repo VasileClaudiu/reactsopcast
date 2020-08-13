@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:01:00.819 --> 00:01:05.820
 Sincronizare Ghost @ SFZ Team

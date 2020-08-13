@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:00:37.204 --> 00:00:41.204
 <font color="#8000ff">= The MATRIX =</font>

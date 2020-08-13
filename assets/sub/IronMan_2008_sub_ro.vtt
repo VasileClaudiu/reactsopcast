@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:01:25.121 --> 00:01:26.948
 Ma simt de parca m-aai duce

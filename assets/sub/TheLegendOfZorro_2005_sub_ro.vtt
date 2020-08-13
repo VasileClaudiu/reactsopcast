@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:00:50.316 --> 00:01:00.316
 <b><i>Traducerea. adaptarea ai sincronizarea:

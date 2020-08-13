@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:00:37.395 --> 00:00:39.637
 Ethan. o iei an casatorie pe Julia...

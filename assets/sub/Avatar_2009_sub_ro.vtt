@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:00:39.978 --> 00:00:42.333
 <i>Cand stateam in spitalul militar</i>

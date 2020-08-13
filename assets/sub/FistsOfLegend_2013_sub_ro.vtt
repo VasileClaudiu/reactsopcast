@@ -1,5 +1,11 @@
 ﻿WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00: 00: 41.500 -> 00: 00: 45.629
 <i> PREZENTE DE aNCaLCARE CJ </i>

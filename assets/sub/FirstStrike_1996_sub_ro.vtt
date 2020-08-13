@@ -1,5 +1,11 @@
 WEBVTT
 
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:00:06.133 --> 00:00:14.133
 Traducerea ai adaptarea: Sherpe
