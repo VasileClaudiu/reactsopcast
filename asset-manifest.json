@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reactsopcast/static/css/main.d3defb17.chunk.css",
-    "main.js": "/reactsopcast/static/js/main.b0882e1d.chunk.js",
-    "main.js.map": "/reactsopcast/static/js/main.b0882e1d.chunk.js.map",
+    "main.js": "/reactsopcast/static/js/main.51a2aa1e.chunk.js",
+    "main.js.map": "/reactsopcast/static/js/main.51a2aa1e.chunk.js.map",
     "runtime-main.js": "/reactsopcast/static/js/runtime-main.6a0abcc3.js",
     "runtime-main.js.map": "/reactsopcast/static/js/runtime-main.6a0abcc3.js.map",
     "static/css/2.da4d0bf3.chunk.css": "/reactsopcast/static/css/2.da4d0bf3.chunk.css",
     "static/js/2.a124e335.chunk.js": "/reactsopcast/static/js/2.a124e335.chunk.js",
     "static/js/2.a124e335.chunk.js.map": "/reactsopcast/static/js/2.a124e335.chunk.js.map",
     "index.html": "/reactsopcast/index.html",
-    "precache-manifest.369ed5f39a30f5d83e958266859daad0.js": "/reactsopcast/precache-manifest.369ed5f39a30f5d83e958266859daad0.js",
+    "precache-manifest.ebf8e88826d9d7bc7b63e58322d6ec45.js": "/reactsopcast/precache-manifest.ebf8e88826d9d7bc7b63e58322d6ec45.js",
     "service-worker.js": "/reactsopcast/service-worker.js",
     "static/css/2.da4d0bf3.chunk.css.map": "/reactsopcast/static/css/2.da4d0bf3.chunk.css.map",
     "static/css/main.d3defb17.chunk.css.map": "/reactsopcast/static/css/main.d3defb17.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.da4d0bf3.chunk.css",
     "static/js/2.a124e335.chunk.js",
     "static/css/main.d3defb17.chunk.css",
-    "static/js/main.b0882e1d.chunk.js"
+    "static/js/main.51a2aa1e.chunk.js"
   ]
 }
