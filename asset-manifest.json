@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/reactsopcast/static/css/main.d3defb17.chunk.css",
-    "main.js": "/reactsopcast/static/js/main.e5bc1669.chunk.js",
-    "main.js.map": "/reactsopcast/static/js/main.e5bc1669.chunk.js.map",
+    "main.js": "/reactsopcast/static/js/main.be92776f.chunk.js",
+    "main.js.map": "/reactsopcast/static/js/main.be92776f.chunk.js.map",
     "runtime-main.js": "/reactsopcast/static/js/runtime-main.6a0abcc3.js",
     "runtime-main.js.map": "/reactsopcast/static/js/runtime-main.6a0abcc3.js.map",
-    "static/css/2.da4d0bf3.chunk.css": "/reactsopcast/static/css/2.da4d0bf3.chunk.css",
-    "static/js/2.a124e335.chunk.js": "/reactsopcast/static/js/2.a124e335.chunk.js",
-    "static/js/2.a124e335.chunk.js.map": "/reactsopcast/static/js/2.a124e335.chunk.js.map",
+    "static/css/2.8c78504e.chunk.css": "/reactsopcast/static/css/2.8c78504e.chunk.css",
+    "static/js/2.fb715ce9.chunk.js": "/reactsopcast/static/js/2.fb715ce9.chunk.js",
+    "static/js/2.fb715ce9.chunk.js.map": "/reactsopcast/static/js/2.fb715ce9.chunk.js.map",
     "index.html": "/reactsopcast/index.html",
-    "precache-manifest.fb01f811de08a89918a5a6e7a9f4facb.js": "/reactsopcast/precache-manifest.fb01f811de08a89918a5a6e7a9f4facb.js",
+    "precache-manifest.892d72000fba7bd28082a8e676a5d438.js": "/reactsopcast/precache-manifest.892d72000fba7bd28082a8e676a5d438.js",
     "service-worker.js": "/reactsopcast/service-worker.js",
-    "static/css/2.da4d0bf3.chunk.css.map": "/reactsopcast/static/css/2.da4d0bf3.chunk.css.map",
+    "static/css/2.8c78504e.chunk.css.map": "/reactsopcast/static/css/2.8c78504e.chunk.css.map",
     "static/css/main.d3defb17.chunk.css.map": "/reactsopcast/static/css/main.d3defb17.chunk.css.map",
-    "static/js/2.a124e335.chunk.js.LICENSE.txt": "/reactsopcast/static/js/2.a124e335.chunk.js.LICENSE.txt",
+    "static/js/2.fb715ce9.chunk.js.LICENSE.txt": "/reactsopcast/static/js/2.fb715ce9.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/reactsopcast/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/logo.svg": "/reactsopcast/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6a0abcc3.js",
-    "static/css/2.da4d0bf3.chunk.css",
-    "static/js/2.a124e335.chunk.js",
+    "static/css/2.8c78504e.chunk.css",
+    "static/js/2.fb715ce9.chunk.js",
     "static/css/main.d3defb17.chunk.css",
-    "static/js/main.e5bc1669.chunk.js"
+    "static/js/main.be92776f.chunk.js"
   ]
 }
