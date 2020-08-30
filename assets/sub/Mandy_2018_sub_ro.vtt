@@ -1,4 +1,12 @@
-﻿1
+﻿WEBVTT
+
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
+1
 00:00:06.000 --> 00:00:12.074
 Faceti publicitate produsului sau marcii dvs. aici
 contactati www.OpenSubtitles.org astazi
