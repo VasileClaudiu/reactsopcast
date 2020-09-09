@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61cce0b1add6ada2cf0bc32ed4065bd5",
+    "revision": "cd92306a02648b048550f5b3d3d2d807",
     "url": "/reactsopcast/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactsopcast/static/css/2.8c78504e.chunk.css"
   },
   {
-    "revision": "1828aa141326fe78744e",
+    "revision": "c1571e0f5a489ec2b3a4",
     "url": "/reactsopcast/static/css/main.d3defb17.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactsopcast/static/js/2.19f19db5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1828aa141326fe78744e",
-    "url": "/reactsopcast/static/js/main.4d78082b.chunk.js"
+    "revision": "c1571e0f5a489ec2b3a4",
+    "url": "/reactsopcast/static/js/main.5c6bd54b.chunk.js"
   },
   {
     "revision": "5e25f6ce6156133d9c90",
