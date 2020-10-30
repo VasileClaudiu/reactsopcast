@@ -1,3 +1,11 @@
+WEBVTT
+
+STYLE
+::cue {
+  background-color: black;
+  color: yellow;
+}
+
 1
 00:00:27.033 --> 00:00:29.950
 Nu voi fi niciodata batran.
