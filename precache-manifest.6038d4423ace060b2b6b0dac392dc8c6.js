@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9572143d15d4459bd870",
+    "revision": "0596a1ac6d79f3b75b79",
     "url": "/reactsopcast/static/css/main.34abe79e.chunk.css"
   },
   {
-    "revision": "9572143d15d4459bd870",
-    "url": "/reactsopcast/static/js/main.77e3a178.chunk.js"
+    "revision": "0596a1ac6d79f3b75b79",
+    "url": "/reactsopcast/static/js/main.6da3973e.chunk.js"
   },
   {
     "revision": "e64b9ba2f8665afb68b9",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/reactsopcast/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "198fd90f633a100e1ef1a089da20a50c",
+    "revision": "45739dc0708012c8695e3824040565d8",
     "url": "/reactsopcast/index.html"
   }
 ];
